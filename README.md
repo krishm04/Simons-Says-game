@@ -1,1 +1,1 @@
-# Simons-Says-game
+A fun and interactive memory game inspired by the classic "Simon Says" game! Players must remember and repeat an increasing sequence of colors. With each successful level, the sequence grows in difficulty, challenging players’ memory and focus. Built with HTML, CSS, and JavaScript.
